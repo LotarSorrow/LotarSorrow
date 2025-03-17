@@ -2,7 +2,15 @@
 
 ##I'm working hard to achieve my dreams.
 
-Language and Tools
+###Language and Tools
+
+![Python](https://img.shields.io/badge/-Python-181717?logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?logo=SQL&logoColor=4479A1)
+![GitHub](https://img.shields.io/badge/-GitHuB-181717?logo=GitHub)
+![gitforwindows](https://img.shields.io/badge/-GitForWindows-181717?logo=gitforwindows&logoColor=80B3FF)
+![Jira](https://img.shields.io/badge/-Jira-181717?logo=jira&logoColor=0052CC)
+![Postman](https://img.shields.io/badge/-Postman-181717?logo=postman&logoColor=FF6C37)
+![XAMMP](https://img.shields.io/badge/-XAMMP-181717?logo=xampp&logoColor=FB7A24)
 
 Follow me
 <!--
