@@ -1,6 +1,6 @@
 ![Header](https://github.com/LotarSorrow/LotarSorrow/blob/main/Assets/github-header-image(2).png)
 
-## I'm working hard to achieve my dreams.
+## I'm studying hard to achieve my dreams.
 
 ### Language and Tools
 
@@ -16,6 +16,10 @@
 
 [![VK](https://img.shields.io/badge/-VK-181717?logo=vk&logoColor=0077FF)](https://vk.com/lotar94)
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?logo=telegram&logoColor=26A5E4)](https://web.telegram.org/k/#@LotarSorrow)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotarSorrow&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
