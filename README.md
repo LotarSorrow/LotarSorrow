@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-181717?logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/-C#-181717?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-181717?logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-SQL-181717?logo=mysql&logoColor=4479A1)
 ![GitHub](https://img.shields.io/badge/-GitHuB-181717?logo=GitHub)
 ![gitforwindows](https://img.shields.io/badge/-GitForWindows-181717?logo=gitforwindows&logoColor=80B3FF)
