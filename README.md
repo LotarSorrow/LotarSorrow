@@ -1,6 +1,6 @@
-![Header](https://github.com/LotarSorrow/LotarSorrow/blob/main/Assets/github-header-image.png)
+![Header](https://github.com/LotarSorrow/LotarSorrow/blob/main/Assets/github-header-image(2).png)
 
-About me
+##I'm working hard to achieve my dreams.
 
 Language and Tools
 
