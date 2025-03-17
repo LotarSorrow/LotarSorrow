@@ -1,5 +1,5 @@
-Header
-## Hi there 👋
+![Header](https://github.com/LotarSorrow/LotarSorrow/blob/main/Assets/github-header-image.png)
+
 About me
 
 Language and Tools
