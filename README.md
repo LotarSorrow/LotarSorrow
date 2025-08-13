@@ -1,6 +1,6 @@
 ![Header](https://github.com/LotarSorrow/LotarSorrow/blob/main/Assets/github-header-image(2).png)
 
-## I'm studying hard to get a job XD.
+## I'm studying hard to get a job.
 
 ### Languages and Tools
 
